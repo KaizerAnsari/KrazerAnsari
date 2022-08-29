@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krazeransari&label=Profile%20views&color=0e75b6&style=flat" alt="krazeransari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krazeransari" alt="krazeransari" /></a> </p>
-
 - 📫 How to reach me **jasimansari984@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
